@@ -62,5 +62,14 @@ Outras considerações
 --------------------
 
 Nos códigos deste repositório você encontra o EM aplicado em vários lugares, baixe e estude.
+
 Usei o reset do Erik Meyer, mas não é necessário para entender o funcionamento do EM.
+
 Também usei um background em SVG, você também não precisa dele pra entender o EM.
+
+Você pode usar um conversor online de PX para EM, existe vários, eu uso normalmente o http://pxtoem.com/.
+
+Para ver funcionando agora
+--------------------------
+
+Acesse http://cssdesk.com/rdKQC
